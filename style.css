@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+
+*{
+    margin: 0; 
+     padding: 0;
+    box-sizing: border-box;
+    background-image: url(cal2.jpg);
+    background-repeat: no-repeat;
+    font-family: 'Orbitron', sans-serif;
+}
+
+#clear{
+    width: 190px;
+}
+
+.formstyle{
+
+    
+    width: 200px;
+    height: 380px;
+    margin: auto;
+    border: 6px solid black;
+}
+
+input{
+    width: 59px;
+    height: 50px;
+    /* display: inline; */
+    background: rgb(15, 139, 211);
+    border-color: white;
+    color: white;
+}
+
+#answerstyle{
+    width: 188px;
+    border-radius: 10px;
+    border: 3px solid white;
+}
+
+body{
+    margin-top: 80px;
+}
